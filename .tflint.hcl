@@ -14,3 +14,7 @@ plugin "terraform" {
 rule "terraform_required_version" {
   enabled = false
 }
+
+rule "terraform_unused_required_providers" {
+  enabled = false
+}

@@ -1,7 +1,7 @@
 
 # tf-module-example
 
-An example of the use of the module creator
+tf-module-example
 
 
 <!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
